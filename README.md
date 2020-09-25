@@ -1,4 +1,5 @@
-# DSC-680-Fall-2020-Portfolio-Projects
+# DSC680 Fall 2020 Portfolio Projects
+# Abstract
 This repository is a portfolio of DSC 680 projects for Fall 2020. This portfolio will be split into three projects that include analyses and presentations of data. Here are the parameters of each of the projects. 
 
 
@@ -32,4 +33,25 @@ You must submit 10 potential questions you would receive in a presentation along
 
 • Jupyter Notebook or link to your GitHub with your code/dataset.
 
+
+# Preview
+
+## Project One 
+currectly working on it.
+
+## Project Two
+coming soon.
+
+## Project Three
+coming soon.
+
+
+# Findings
 Each of these projects are domain agnostic, data agnostic, and method agnostic. This means that you can pull data from any domain, analyze it using whatever method you deem worthy, and use data that already exists in any form.
+
+# Challenges
+work in progress.
+
+# Conclusion
+Work in progress.
+
