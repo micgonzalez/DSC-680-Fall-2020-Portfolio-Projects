@@ -35,15 +35,18 @@ You must submit 10 potential questions you would receive in a presentation along
 
 
 
+
 # Preview
 
 ## Project One 
 ![Preview of the Pair Plot created from this project.](https://raw.githubusercontent.com/micgonzalez/DSC680-Fall-2020-Portfolio-Projects/master/project_one/dataset_pair_plot_correlations_screenshot.png)
 
-This heatmap was created from this project to convey my findings to the public.
+This pair plot was created from this project to convey my findings to the public.
 
 ## Project Two
 ![Preview of the heatmap created from this project.](https://raw.githubusercontent.com/micgonzalez/DSC680-Fall-2020-Portfolio-Projects/master/project_two/DSC_680_Project_02_heatmap_py.png)
+
+This heatmap was created from this project to convey my findings to the public.
 
 ## Project Three
 coming soon.
@@ -57,10 +60,11 @@ Each of these projects are domain agnostic, data agnostic, and method agnostic. 
 There is also a clear difference between women who have the presence of heart disease and the women who do not. This was a good base for me to see how many people had the presence of heart disease between the two genders. From this finding I saw that men are more likely to have the presence of heart disease compared to women.
 
 ## Project Two
-This project was to look at the COVID-19 cases in Los Angeles County. With the evidence that a second wave of COVID-19 is coming in the next few months. I wanted to focus on the number of cases within this county, since it has many well know cities that reside in it. I also wanted to work on a project that relates to the COVID-19 pandemic and my beloved Los Angeles County.+
+This project was to look at the COVID-19 cases in Los Angeles County. With the evidence that a second wave of COVID-19 is coming in the next few months. I wanted to focus on the number of cases within this county, since it has many well know cities that reside in it. I also wanted to work on a project that relates to the COVID-19 pandemic and my beloved Los Angeles County.
 
 ## Project Three
 coming soon.
+
 
 
 # Challenges
@@ -73,6 +77,7 @@ One challenge that comes to mind is the fact that I am talking about a specific 
 
 ## Project Three
 coming soon.
+
 
 
 # Conclusion
