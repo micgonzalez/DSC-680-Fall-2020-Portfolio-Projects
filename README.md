@@ -86,7 +86,7 @@ coming soon.
 The focus of this project was to fit a model that was able to predict the presence of heart disease based on anonymized health profiles of past medical patients. I had experimented with three different classification models to find and analyze the best parameters used for making predictions. Out of the three classification models selected for this project, the Random Forest Classifier with Grid Search was the best with an accuracy rate of 88%. 
 
 ## Project Two
-coming soon.
+The focus of this project was to look at the number of COVID-19 cases in the cities that are in Los Angeles County. The reason is based on, we are going into flu season and a second phase of COVID-19 in Los Angeles County. With that in mind, it is more helpful to look at the number of COVID-19 cases, since the most common way of transmission is through asymptomatic people.
 
 ## Project Three
 coming soon.
