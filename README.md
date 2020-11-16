@@ -1,6 +1,14 @@
 # DSC680 Fall 2020 Portfolio Projects
+
+
+
+# Introduction
+This repository is a portfolio of DSC 680 projects for Fall 2020. This portfolio will be split into three projects that include analyses and presentations of data. These projects will display my understanding of the skill learned in Bellevue University's Data Science course. Please enjoy looking through the projects.
+
+
+
 # Abstract
-This repository is a portfolio of DSC 680 projects for Fall 2020. This portfolio will be split into three projects that include analyses and presentations of data. Here are the parameters of each of the projects. 
+The following areas of this repository will discuss and explain the objectives of the projects. With this in mind, it is time to talk about the parameters of the projects. Here are the parameters of each of the projects. 
 
 
 • Report/White Paper
@@ -35,6 +43,10 @@ You must submit 10 potential questions you would receive in a presentation along
 
 
 
+# Summary of Skills
+I used the python environment to perform my exploratory data analysis. I also used the Pandas, Seaborn, Matplotlib, and Plotly packages and Micosoft's Power BI application for these projects. 
+
+
 
 # Preview
 
@@ -52,6 +64,7 @@ This heatmap was created from this project to convey my findings to the public.
 ![Preview of the histogram created from this project.](https://github.com/micgonzalez/DSC680-Fall-2020-Portfolio-Projects/blob/master/project_three/images/dsc_680_project_3_histogram.png)
 
 This histogram was created from this project to convey my findings to the public.
+
 
 
 # Findings
@@ -90,5 +103,5 @@ The focus of this project was to fit a model that was able to predict the presen
 The focus of this project was to look at the number of COVID-19 cases in the cities that are in Los Angeles County. The reason is based on, we are going into flu season and a second phase of COVID-19 in Los Angeles County. With that in mind, it is more helpful to look at the number of COVID-19 cases, since the most common way of transmission is through asymptomatic people.
 
 ## Project Three
-I propose developing a model that can predict earthquakes from the selected dataset and it can be another tool in use with the mobile applications. My hope for this model would be to give people more time to prepare for earthquakes. Another hope for this model will be to limit the amount of damages and injuries from earthquakes.
+The main objective for this project was to see if it is possible to predict earthquakes. The reason is based on, my upbringing in California where you live with the fact that earthquakes can happen at any time. I propose developing a model that can predict earthquakes from the selected dataset and it can be another tool in use with the mobile applications. My hope for this model would be to give people more time to prepare for earthquakes. Another hope for this model will be to limit the amount of damages and injuries from earthquakes.
 
