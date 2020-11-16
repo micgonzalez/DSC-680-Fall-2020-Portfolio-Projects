@@ -49,8 +49,9 @@ This pair plot was created from this project to convey my findings to the public
 This heatmap was created from this project to convey my findings to the public.
 
 ## Project Three
-coming soon.
+![Preview of the histogram created from this project.](https://github.com/micgonzalez/DSC680-Fall-2020-Portfolio-Projects/blob/master/project_three/images/dsc_680_project_3_histogram.png)
 
+This histogram was created from this project to convey my findings to the public.
 
 
 # Findings
@@ -63,7 +64,7 @@ There is also a clear difference between women who have the presence of heart di
 This project was to look at the COVID-19 cases in Los Angeles County. With the evidence that a second wave of COVID-19 is coming in the next few months. I wanted to focus on the number of cases within this county, since it has many well know cities that reside in it. I also wanted to work on a project that relates to the COVID-19 pandemic and my beloved Los Angeles County.
 
 ## Project Three
-coming soon.
+It seems that earthquakes of 5.5 are very common and the magnitudes of earthquakes will be a good metric for predicting. I also see using depth as another good metric for predicting earthquakes. I am thinking in a manner that is like weather forecasting that may not be perfect, but it gives useful information for that day. This would also be useful to local governments that are in the earthquake prone areas. 
 
 
 
@@ -76,7 +77,7 @@ One challenge comes to mind is how to deal with wildly different results from us
 One challenge that comes to mind is the fact that I am talking about a specific area of California. I know that many people might not know all the cities within Los Angeles County. I had select a few well-known cities. I also had provide a brief explanation on the other cities that includes their demographics and location to Los Angeles. I knew this would be a potential issue, since I wanted to talk about cities that are being affected by COVID-19 in Los Angeles County. 
 
 ## Project Three
-coming soon.
+The challenge for has been looking for a replacement algorithm besides random forest regressor. When I started with the research for this project, I did see some other projects that only used random forest regressor algorithm to evaluate the accuracy of predicting earthquakes. I did not see any projects that used another algorithm when it came to evaluating a model with this type of dataset. Another challenge with this dataset was the amount of missing data, which was time consuming. One other challenge was the terminology of this domain.
 
 
 
@@ -89,5 +90,5 @@ The focus of this project was to fit a model that was able to predict the presen
 The focus of this project was to look at the number of COVID-19 cases in the cities that are in Los Angeles County. The reason is based on, we are going into flu season and a second phase of COVID-19 in Los Angeles County. With that in mind, it is more helpful to look at the number of COVID-19 cases, since the most common way of transmission is through asymptomatic people.
 
 ## Project Three
-coming soon.
+I propose developing a model that can predict earthquakes from the selected dataset and it can be another tool in use with the mobile applications. My hope for this model would be to give people more time to prepare for earthquakes. Another hope for this model will be to limit the amount of damages and injuries from earthquakes.
 
