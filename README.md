@@ -13,8 +13,6 @@ The following areas of this repository will discuss and explain the objectives o
 
 • Report/White Paper
 
-APA references
-
 Summarize your business problem/hypothesis
 
 Walk through your method 
